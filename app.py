@@ -1,5 +1,7 @@
 from apiflaskdemo import create_app
 
+print "Hola"
+
 app = create_app()
 
 if __name__ == '__main__':
